@@ -75,12 +75,12 @@
     }
     
     .hr1 {
-        padding: 30px 40px;
+        padding: 30px 60px;
         border-style: none;
         border-top-style: dotted;
-        border-width: 8px;
+        border-width: 5px;
         border-color: grey;
-        width: 3%;
+        width: 1%;
     }
     
     .int {
