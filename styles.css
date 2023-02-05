@@ -75,12 +75,11 @@
     }
     
     .hr1 {
-        padding: 30px 60px;
-        border-style: none;
-        border-top-style: dotted;
-        border-width: 5px;
+        border: dotted 6px;
         border-color: grey;
-        width: 1%;
+        border-bottom: none;
+        width: 4%;
+        margin: 100px auto;
     }
     
     .int {
