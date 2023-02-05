@@ -107,8 +107,8 @@
     
     .lower-cloud {
         position: relative;
-        right: 130px;
-        bottom: 380px;
+        right: 100px;
+        bottom: 400px;
     }
     
     .mountain {
@@ -165,5 +165,5 @@
     
     .upper-cloud {
         position: relative;
-        left: 450px;
+        left: 350px;
     }
