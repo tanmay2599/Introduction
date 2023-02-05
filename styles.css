@@ -142,8 +142,9 @@
     }
     
     .top-container {
+        margin: 0;
         background-color: #FBE7A1;
-        padding-top: 100px;
+        padding-top: 100px;        
         position: relative;
         text-align: center;
         font-size: 2rem;
@@ -158,6 +159,7 @@
     }
     
     .middle-container {
+        margin:0;
         padding: 100px;
         background-color: #EAF6F6;
         text-align: center;
